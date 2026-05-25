@@ -1,6 +1,5 @@
 {
-  "pub_key": "BLS_VER_KEY~f-_M6wVk_iiGlxysjGE2e0otQ7ogBbZX6C0QvBzU4wktO1aoZc4crIPuSO73DVw8Kwj_BHYENip6FvGkAXzRF5qLWplFneLoOvEKX8XMc3c4rFAJqVgYHhP4cEdy4Ikija_bPQ5W0V1pSXX_yhU72kITcpBejovQJcPQyga2iRFI
-",
+  "pub_key": "BLS_VER_KEY~f-_M6wVk_iiGlxysjGE2e0otQ7ogBbZX6C0QvBzU4wktO1aoZc4crIPuSO73DVw8Kwj_BHYENip6FvGkAXzRF5qLWplFneLoOvEKX8XMc3c4rFAJqVgYHhP4cEdy4Ikija_bPQ5W0V1pSXX_yhU72kITcpBejovQJcPQyga2iRFI",
   "name": "Yaminode",
   "description": "Validator by Yaminode | Blockchain Infrastructure Provider",
   "company_name": "Yaminode",
@@ -8,14 +7,14 @@
   "client_version": "1.0.0",
   "icon": {
     "14x14": {
-      "@1x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/logoyami.png",
-      "@2x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/logoyami.png",
-      "@3x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/logoyami.png"
+      "@1x": "https://raw.githubusercontent.com/Yami5352/logoyaminode/refs/heads/main/logoyami.png",
+      "@2x": "https://raw.githubusercontent.com/Yami5352/logoyaminode/refs/heads/main/logoyami.png",
+      "@3x": "https://raw.githubusercontent.com/Yami5352/logoyaminode/refs/heads/main/logoyami.png"
     },
     "24x24": {
-      "@1x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/logoyami.png",
-      "@2x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/logoyami.png",
-      "@3x": "https://raw.githubusercontent.com/catsmile100/logocatsmile/refs/heads/main/logoyami.png"
+      "@1x": "https://raw.githubusercontent.com/Yami5352/logoyaminode/refs/heads/main/logoyami.png",
+      "@2x": "https://raw.githubusercontent.com/Yami5352/logoyaminode/refs/heads/main/logoyami.png",
+      "@3x": "https://raw.githubusercontent.com/Yami5352/logoyaminode/refs/heads/main/logoyami.png"
     }
   }
 }
